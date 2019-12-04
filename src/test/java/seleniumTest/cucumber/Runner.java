@@ -9,6 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(monochrome = true, strict = true,
         tags= {"@CreateCurrentAccount"},
         features ="src/test/resources/com.xceptor.selenium.features/UITest",
+        plugin = {"html:target/cucumber-pretty","json:target/cucumber.json"},
         glue = {"seleniumTest/step_def"}
 )
 
