@@ -7,6 +7,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -17,6 +19,7 @@ import seleniumTest.BeanConfig.Utility;
 import seleniumTest.pageObjects.*;
 
 import java.io.IOException;
+import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 public class currenct_account_step_definition extends DriverFactory {
@@ -27,8 +30,12 @@ public class currenct_account_step_definition extends DriverFactory {
     @Given("Customer launches the Lloyds Bank Website")
     public void customer_launches_the_Lloyds_Bank_Website() throws IOException {
         // Write code here that turns the phrase above into concrete actions
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/src/test/resources/seleium_brower_driver/chromedriver");
-        driver = new ChromeDriver();
+        String hubURL = "http://localhost:4444/wd/hub";
+        DesiredCapabilities capability = DesiredCapabilities.chrome();
+        driver = new RemoteWebDriver(new URL(hubURL), capability);
+
+        //System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/src/test/resources/seleium_brower_driver/chromedriver");
+        //driver = new ChromeDriver();
         //driver.get("https://www.lloydsbank.com");
        // System.out.println(Utility.getData().getProperty("lloydsbank_url"));
         driver.get(Utility.getData().getProperty("lloydsbank_url"));

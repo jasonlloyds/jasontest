@@ -14,14 +14,14 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.65342677">
+    <splitter split-orientation="horizontal" split-proportion="0.50682855">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/step_def/currenct_account_step_definition.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="433">
-                  <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+                <state relative-caret-position="173">
+                  <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -41,8 +41,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/BeanConfig/DriverFactory.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+                <state relative-caret-position="289">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -62,11 +62,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/ClassAccount_application_page.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="501">
-                  <caret line="185" column="65" lean-forward="true" selection-start-line="185" selection-start-column="65" selection-end-line="185" selection-end-column="65" />
+                <state relative-caret-position="488">
+                  <caret line="293" selection-start-line="293" selection-end-line="293" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -81,8 +81,6 @@
                   <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#373#374#0" expanded="true" />
-                    <element signature="e#411#412#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -104,11 +102,9 @@
             <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/CurrentAccountPage.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="153">
-                  <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+                  <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#329#330#0" expanded="true" />
-                    <element signature="e#378#379#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -133,8 +129,41 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/resources/com.xceptor.selenium.features/UITest/Test1.feature">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+                <state relative-caret-position="289">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/cucumber/Runner.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" selection-start-line="1" selection-end-line="2" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/BeanConfig/BeanConfig.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-1558">
+                  <caret line="37" selection-start-line="37" selection-end-line="37" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1152">
+                  <caret line="281" column="22" selection-start-line="281" selection-start-column="22" selection-end-line="281" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
@@ -179,13 +208,13 @@
         <option value="$PROJECT_DIR$/src/test/java/seleniumTest/BeanConfig/Utility.java" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/ClassicAccount_beforeYouStart_page.java" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/ClassicAccountPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/seleniumTest/BeanConfig/DriverFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/FrontPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/CurrentAccountPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/ClassicAccount_applyNow_page.java" />
         <option value="$PROJECT_DIR$/src/test/resources/test.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/seleniumTest/step_def/currenct_account_step_definition.java" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/ClassAccount_application_page.java" />
+        <option value="$PROJECT_DIR$/src/test/java/seleniumTest/BeanConfig/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/seleniumTest/step_def/currenct_account_step_definition.java" />
       </list>
     </option>
   </component>
@@ -196,52 +225,54 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="958" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="210" />
+    <option name="y" value="143" />
+    <option name="width" value="1260" />
+    <option name="height" value="721" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -249,8 +280,8 @@
               <item name="BeanConfig" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -258,8 +289,8 @@
               <item name="cucumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -267,8 +298,8 @@
               <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -276,18 +307,50 @@
               <item name="step_def" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LloydsbankWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LloydsbankWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="UITest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="seleium_brower_driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jasontest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jasontest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,7 +400,7 @@
       </method>
     </configuration>
     <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LloydsbankWebsite" />
+      <module name="jasontest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="seleniumTest.cucumber.*" />
@@ -346,7 +409,9 @@
       </extension>
       <option name="PACKAGE_NAME" value="seleniumTest.cucumber" />
       <option name="MAIN_CLASS_NAME" value="seleniumTest.cucumber.Runner" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -372,42 +437,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Runner - 2019.12.02 at 10h 26m 03s.xml">
+    <history-entry file="Runner - 2019.12.04 at 14h 19m 28s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.12.02 at 10h 59m 39s.xml">
+    <history-entry file="Runner - 2019.12.04 at 15h 07m 51s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.12.03 at 10h 02m 45s.xml">
+    <history-entry file="Runner - 2019.12.05 at 17h 28m 04s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.12.03 at 10h 22m 27s.xml">
+    <history-entry file="Runner - 2019.12.06 at 10h 53m 29s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.12.03 at 10h 23m 31s.xml">
+    <history-entry file="Runner - 2019.12.06 at 10h 54m 16s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.12.03 at 10h 24m 03s.xml">
+    <history-entry file="Runner - 2019.12.06 at 13h 29m 15s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.12.03 at 10h 31m 43s.xml">
+    <history-entry file="Runner - 2019.12.06 at 13h 56m 55s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.12.03 at 10h 40m 12s.xml">
+    <history-entry file="Runner - 2019.12.06 at 14h 01m 25s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.12.03 at 11h 24m 55s.xml">
+    <history-entry file="Runner - 2019.12.06 at 14h 02m 16s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.12.03 at 11h 25m 27s.xml">
+    <history-entry file="Runner - 2019.12.06 at 14h 06m 23s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="958" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="958" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14761905" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21547619" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -416,15 +481,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49940476" visible="true" weight="0.22435175" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49761903" visible="true" weight="0.20631342" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329927" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005952" side_tool="true" visible="true" weight="0.22435175" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50238097" side_tool="true" visible="true" weight="0.20631342" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.08793686" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49940476" weight="0.08793686" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -450,20 +515,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/BeanConfig/BeanConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/cucumber/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="1" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -472,8 +527,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="254" column="43" selection-start-line="254" selection-start-column="43" selection-end-line="254" selection-end-column="43" />
+        <state relative-caret-position="1152">
+          <caret line="281" column="22" selection-start-line="281" selection-start-column="22" selection-end-line="281" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -508,36 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/BeanConfig/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/ClassicAccount_beforeYouStart_page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/step_def/currenct_account_step_definition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/FrontPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -551,11 +576,9 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/CurrentAccountPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -576,16 +599,54 @@
           <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/BeanConfig/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/ClassAccount_application_page.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="185" column="65" lean-forward="true" selection-start-line="185" selection-start-column="65" selection-end-line="185" selection-end-column="65" />
+        <state relative-caret-position="488">
+          <caret line="293" selection-start-line="293" selection-end-line="293" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/pageObjects/ClassicAccount_beforeYouStart_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/step_def/currenct_account_step_definition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTest/BeanConfig/BeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1558">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -594,8 +655,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/com.xceptor.selenium.features/UITest/Test1.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
